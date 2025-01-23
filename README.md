@@ -28,7 +28,7 @@ I thrive on turning raw data into actionable insights using statistical analysis
 1. **Reinforcement Learning for Algorithmic Trading**  
    - Built a PPO-based RL agent to optimize trading strategies.  
    - Conducted extensive backtesting to validate risk and reward metrics.  
-   - Result: Achieved significant profitability improvements over baseline models.
+   - Result: Achieved significant profitability over buy and hold strategy. 
 
 2. **Real-Time Fraud Detection**  
    - Designed and implemented a pipeline to detect anomalies in transactional data.  
