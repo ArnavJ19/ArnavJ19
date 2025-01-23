@@ -2,8 +2,6 @@
 
 Hi, I'm **Arnav Jain** – a Master's student at **Boston University** with a passion for uncovering insights and driving decisions through **Data Science** and **Machine Learning**. My work revolves around building predictive models, crafting meaningful visualizations, and leveraging analytical techniques to solve complex business problems.
 
----
-
 ## 🚀 **What I Bring to the Table**
 
 ### **🔍 Analytical Thinking**
@@ -22,8 +20,6 @@ I thrive on turning raw data into actionable insights using statistical analysis
 - A team player who enjoys working with cross-functional groups to achieve project goals.
 - Committed to delivering **business-impactful insights** and improving operational processes.
 
----
-
 ## 🏆 **Highlights of My Work**
 1. **Reinforcement Learning for Algorithmic Trading**  
    - Built a PPO-based RL agent to optimize trading strategies.  
@@ -40,15 +36,10 @@ I thrive on turning raw data into actionable insights using statistical analysis
    - Used machine learning models to improve recall for underrepresented classes.  
    - Created visualizations that enhanced stakeholder understanding.
 
----
-
 ## 🌟 **Why Collaborate with Me?**
 - **Critical Thinker**: I approach every project with curiosity and a problem-solving mindset.
 - **Storyteller with Data**: I enjoy translating complex data into clear, actionable narratives.
 - **Continuous Learner**: Always upskilling in the latest tools and techniques in the data world.
-
----
-
 
 ### **🛠️ Tech Stack**
 
