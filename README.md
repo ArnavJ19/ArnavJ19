@@ -1,22 +1,24 @@
-# Hi there! 👋 I'm Arnav Jain
+# Hi there! 👋 I'm Arnav Jain  
 
-🌟 Master's Student at Boston University | **Data Scientist** | **Quantitative Researcher**
+🎓 **Master's Student at Boston University** | **Data Scientist** | **Machine Learning Engineer**  
 
-I thrive at the intersection of **Machine Learning**, **Finance**, and **Technology**, building systems that **learn, adapt, and optimize**. From developing Reinforcement Learning trading agents to creating predictive analytics models, I strive to push the boundaries of innovation.
+I specialize in turning data into actionable insights and building predictive models that drive decision-making. With a passion for applying advanced Machine Learning techniques, I aim to deliver impactful solutions in Data Analytics and AI-driven applications.
 
 ---
 
-### 🚀 **Current Focus**
-- **📈 Reinforcement Learning for Algorithmic Trading**: Building agents that master market dynamics.
-- **🤖 Predictive Modeling**: Leveraging advanced ML/DL for real-world impact.
-- **☁️ Cloud & Scalability**: Exploring AWS for efficient data processing.
+### 🚀 **What I Bring to the Table**
+- **Data Expertise**: Advanced data cleaning, processing, and visualization.  
+- **Model Development**: End-to-end Machine Learning pipelines using Python and modern frameworks.  
+- **Analytics & Insights**: Delivering actionable insights with cutting-edge statistical techniques.  
+- **Scalable Systems**: Implementing AI/ML models in production-ready environments.
 
 ---
 
 ### 🛠️ **Tech Stack**
 ```yaml
-Programming: Python, R, SQL, PySpark
+Programming: Python, SQL, R
 Machine Learning: PyTorch, TensorFlow, Scikit-Learn
-Finance Tools: QuantLib, Backtrader, Bloomberg API
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Data Engineering: PySpark, Pandas, NumPy
 Cloud: AWS (S3, EC2), Docker
-Visualization: Matplotlib, Seaborn, Plotly, Tableau
+Big Data: Hadoop, Spark
