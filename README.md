@@ -1,18 +1,54 @@
-# Hi there! 👋 I'm Arnav Jain  
+# 👋 Welcome to My GitHub Profile
 
-🎓 **Master's Student at Boston University** | **Data Scientist** | **Machine Learning Engineer**  
-
-I specialize in turning data into actionable insights and building predictive models that drive decision-making. With a passion for applying advanced Machine Learning techniques, I aim to deliver impactful solutions in Data Analytics and AI-driven applications.
+Hi, I'm **Arnav Jain** – a Master's student at **Boston University** with a passion for uncovering insights and driving decisions through **Data Science** and **Machine Learning**. My work revolves around building predictive models, crafting meaningful visualizations, and leveraging analytical techniques to solve complex business problems.
 
 ---
 
-### 🚀 **What I Bring to the Table**
-- **Data Expertise**: Advanced data cleaning, processing, and visualization.  
-- **Model Development**: End-to-end Machine Learning pipelines using Python and modern frameworks.  
-- **Analytics & Insights**: Delivering actionable insights with cutting-edge statistical techniques.  
-- **Scalable Systems**: Implementing AI/ML models in production-ready environments.
+## 🚀 **What I Bring to the Table**
+
+### **🔍 Analytical Thinking**
+I thrive on turning raw data into actionable insights using statistical analysis, feature engineering, and machine learning techniques. I focus on ensuring every data-driven solution aligns with business objectives.
+
+### **🤖 Machine Learning Expertise**
+- **Model Building**: Hands-on experience in classification, regression, and time-series forecasting.
+- **Optimization**: Fine-tuning models for improved accuracy and efficiency.
+- **Applications**: Fraud detection, health analytics, and financial modeling.
+
+### **📊 Insights Through Visualization**
+- Proficient in creating **interactive dashboards** to present data-driven stories using Tableau, Power BI, and Python libraries.
+- Skilled in conveying complex results to both technical and non-technical audiences.
+
+### **🌟 Collaborative Problem-Solving**
+- A team player who enjoys working with cross-functional groups to achieve project goals.
+- Committed to delivering **business-impactful insights** and improving operational processes.
 
 ---
+
+## 🏆 **Highlights of My Work**
+1. **Reinforcement Learning for Algorithmic Trading**  
+   - Built a PPO-based RL agent to optimize trading strategies.  
+   - Conducted extensive backtesting to validate risk and reward metrics.  
+   - Result: Achieved significant profitability improvements over baseline models.
+
+2. **Real-Time Fraud Detection**  
+   - Designed and implemented a pipeline to detect anomalies in transactional data.  
+   - Leveraged advanced feature engineering to reduce false positives by 15%.  
+   - Outcome: Improved the reliability of fraud detection systems.
+
+3. **Depression Prediction Using Health Data**  
+   - Analyzed public health datasets to predict depression risk factors.  
+   - Used machine learning models to improve recall for underrepresented classes.  
+   - Created visualizations that enhanced stakeholder understanding.
+
+---
+
+## 🌟 **Why Collaborate with Me?**
+- **Critical Thinker**: I approach every project with curiosity and a problem-solving mindset.
+- **Storyteller with Data**: I enjoy translating complex data into clear, actionable narratives.
+- **Continuous Learner**: Always upskilling in the latest tools and techniques in the data world.
+
+---
+
 
 ### **🛠️ Tech Stack**
 
