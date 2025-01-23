@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Arnav Jain, a Master's student and aspiring Quantitative Researcher with a passion for Machine Learning and Algorithmic Trading.
 
-<!--
-**ArnavJ19/ArnavJ19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Projects
+- **[RL_Agent_Trading](https://github.com/ArnavJ19/RL_Agent_Trading)**: Implementing PPO-based trading algorithms.
+- **[Depression Prediction](https://github.com/ArnavJ19/Depression-Prediction-Using-Health-Data)**: Predictive modeling using health data.
 
-Here are some ideas to get you started:
+## 🌱 Learning
+- Deep Reinforcement Learning, Algorithmic Trading, and Cloud Computing with AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 🌐 [arnavxdata.com](https://arnavxdata.com)
+- 📄 [LinkedIn](https://www.linkedin.com/in/arnavj19)
+- 🏆 [GitHub Achievements](https://github.com/ArnavJ19)
