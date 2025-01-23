@@ -1,14 +1,22 @@
-# Hi there! 👋
-I'm Arnav Jain, a Master's student and aspiring Quantitative Researcher with a passion for Machine Learning and Algorithmic Trading.
+# Hi there! 👋 I'm Arnav Jain
 
-## 🔭 Current Projects
-- **[RL_Agent_Trading](https://github.com/ArnavJ19/RL_Agent_Trading)**: Implementing PPO-based trading algorithms.
-- **[Depression Prediction](https://github.com/ArnavJ19/Depression-Prediction-Using-Health-Data)**: Predictive modeling using health data.
+🌟 Master's Student at Boston University | **Data Scientist** | **Quantitative Researcher**
 
-## 🌱 Learning
-- Deep Reinforcement Learning, Algorithmic Trading, and Cloud Computing with AWS.
+I thrive at the intersection of **Machine Learning**, **Finance**, and **Technology**, building systems that **learn, adapt, and optimize**. From developing Reinforcement Learning trading agents to creating predictive analytics models, I strive to push the boundaries of innovation.
 
-## 📫 Let's Connect
-- 🌐 [arnavxdata.com](https://arnavxdata.com)
-- 📄 [LinkedIn](https://www.linkedin.com/in/arnavj19)
-- 🏆 [GitHub Achievements](https://github.com/ArnavJ19)
+---
+
+### 🚀 **Current Focus**
+- **📈 Reinforcement Learning for Algorithmic Trading**: Building agents that master market dynamics.
+- **🤖 Predictive Modeling**: Leveraging advanced ML/DL for real-world impact.
+- **☁️ Cloud & Scalability**: Exploring AWS for efficient data processing.
+
+---
+
+### 🛠️ **Tech Stack**
+```yaml
+Programming: Python, R, SQL, PySpark
+Machine Learning: PyTorch, TensorFlow, Scikit-Learn
+Finance Tools: QuantLib, Backtrader, Bloomberg API
+Cloud: AWS (S3, EC2), Docker
+Visualization: Matplotlib, Seaborn, Plotly, Tableau
