@@ -6,12 +6,12 @@ Hi, I'm **Arnav Jain** – a Master's student at **Boston University** with a pa
 1. **Reinforcement Learning for Algorithmic Trading**  
    - Built a PPO-based RL agent to optimize trading strategies.  
    - Conducted extensive backtesting to validate risk and reward metrics.  
-   - Result: Achieved significant profitability over buy and hold strategy. 
+   - Result: Achieved significant profitability over buy and hold strategy, with 15% higher cummulative returns and 40% higher risk-adjusted returns.   
 
-2. **Real-Time Fraud Detection**  
-   - Designed and implemented a pipeline to detect anomalies in transactional data.  
-   - Leveraged advanced feature engineering to reduce false positives by 15%.  
-   - Outcome: Improved the reliability of fraud detection systems.
+2. **Clustering-Based Portfolio Optimization**  
+   - Developed a robust portfolio using Agglomorative Clustering with stocks of similar risk return profile.   
+   - Engineered custom features and performed statistical analysis to understand each stock's impact on risk-return metrics.  
+   - Outcome: Optimized portfolio outperformed the Maginificent-7 Stocks and S&P 500 Index with a strong Sharpe Ratio of 1.75 and CR of 35.36%, when backtested on 4 years of Data.
 
 3. **Depression Prediction Using Health Data**  
    - Analyzed public health datasets to predict depression risk factors.  
@@ -41,7 +41,7 @@ I thrive on turning raw data into actionable insights using statistical analysis
 - **Storyteller with Data**: I enjoy translating complex data into clear, actionable narratives.
 - **Continuous Learner**: Always upskilling in the latest tools and techniques in the data world.
 
-### **🛠️ Tech Stack**
+### **Tech Stack**
 
 #### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
