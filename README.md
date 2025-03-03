@@ -1,26 +1,8 @@
-# 👋 Welcome to My GitHub Profile
+#  Welcome to My GitHub Profile
 
 Hi, I'm **Arnav Jain** – a Master's student at **Boston University** with a passion for uncovering insights and driving decisions through **Data Science** and **Machine Learning**. My work revolves around building predictive models, crafting meaningful visualizations, and leveraging analytical techniques to solve complex business problems.
 
-## 🚀 **What I Bring to the Table**
-
-### **🔍 Analytical Thinking**
-I thrive on turning raw data into actionable insights using statistical analysis, feature engineering, and machine learning techniques. I focus on ensuring every data-driven solution aligns with business objectives.
-
-### **🤖 Machine Learning Expertise**
-- **Model Building**: Hands-on experience in classification, regression, and time-series forecasting.
-- **Optimization**: Fine-tuning models for improved accuracy and efficiency.
-- **Applications**: Fraud detection, health analytics, and financial modeling.
-
-### **📊 Insights Through Visualization**
-- Proficient in creating **interactive dashboards** to present data-driven stories using Tableau, Power BI, and Python libraries.
-- Skilled in conveying complex results to both technical and non-technical audiences.
-
-### **🌟 Collaborative Problem-Solving**
-- A team player who enjoys working with cross-functional groups to achieve project goals.
-- Committed to delivering **business-impactful insights** and improving operational processes.
-
-## 🏆 **Highlights of My Work**
+##  **Highlights of My Work**
 1. **Reinforcement Learning for Algorithmic Trading**  
    - Built a PPO-based RL agent to optimize trading strategies.  
    - Conducted extensive backtesting to validate risk and reward metrics.  
@@ -36,7 +18,25 @@ I thrive on turning raw data into actionable insights using statistical analysis
    - Used machine learning models to improve recall for underrepresented classes.  
    - Created visualizations that enhanced stakeholder understanding.
 
-## 🌟 **Why Collaborate with Me?**
+## **What I Bring to the Table**
+
+### ** Analytical Thinking**
+I thrive on turning raw data into actionable insights using statistical analysis, feature engineering, and machine learning techniques. I focus on ensuring every data-driven solution aligns with business objectives.
+
+### ** Machine Learning Expertise**
+- **Model Building**: Hands-on experience in classification, regression, and time-series forecasting.
+- **Optimization**: Fine-tuning models for improved accuracy and efficiency.
+- **Applications**: Fraud detection, health analytics, and financial modeling.
+
+### ** Insights Through Visualization**
+- Proficient in creating **interactive dashboards** to present data-driven stories using Tableau, Power BI, and Python libraries.
+- Skilled in conveying complex results to both technical and non-technical audiences.
+
+### ** Collaborative Problem-Solving**
+- A team player who enjoys working with cross-functional groups to achieve project goals.
+- Committed to delivering **business-impactful insights** and improving operational processes.
+
+## **Why Collaborate with Me?**
 - **Critical Thinker**: I approach every project with curiosity and a problem-solving mindset.
 - **Storyteller with Data**: I enjoy translating complex data into clear, actionable narratives.
 - **Continuous Learner**: Always upskilling in the latest tools and techniques in the data world.
