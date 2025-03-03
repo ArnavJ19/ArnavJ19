@@ -1,6 +1,14 @@
 #  Welcome to My GitHub Profile
 
-Hi, I'm **Arnav Jain** – a Master's student at **Boston University** with a passion for uncovering insights and driving decisions through **Data Science** and **Machine Learning**. My work revolves around building predictive models, crafting meaningful visualizations, and leveraging analytical techniques to solve complex business problems.
+Hi, I'm **Arnav Jain** – a Master's student at **Boston University** with a passion for uncovering insights and driving decisions through **Data Analytics** and **Machine Learning**. My work revolves around building predictive models, crafting meaningful visualizations, and leveraging analytical techniques to solve complex business problems.
+
+## **About Me**
+
+
+I'm a problem solver at heart, always drawn to challenges that require strategy, logic, and creativity. Whether it's building machine learning models, optimizing systems, or uncovering insights from complex data, I thrive on finding smart, efficient solutions.
+
+Beyond work, I love strategy and competition—whether it's playing chess and poker, analyzing soccer tactics, or diving into the precision of Formula 1. I enjoy the mental agility these games and sports demand, much like solving real-world problems.
+
 
 ##  **Highlights of My Work**
 1. **Reinforcement Learning for Algorithmic Trading**  
