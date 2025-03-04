@@ -24,7 +24,7 @@ Beyond work, I love strategy and competition—whether it's playing chess and po
 3. **Depression Prediction Using Health Data**  
    - Analyzed public health datasets to predict depression risk factors.  
    - Used machine learning models to improve recall for underrepresented classes.  
-   - Created visualizations that enhanced stakeholder understanding.
+   - Result: Achieved a 76% TPR in predicting both classes accurately and low FPR of 21%, which presents model's robustness on real-world data. 
 
 ## **What I Bring to the Table**
 
