@@ -28,7 +28,7 @@ Beyond work, I love strategy and competition—whether it's playing chess and po
 
 ## **What I Bring to the Table**
 
-### ** Analytical Thinking**
+### **Analytical Thinking**
 I thrive on turning raw data into actionable insights using statistical analysis, feature engineering, and machine learning techniques. I focus on ensuring every data-driven solution aligns with business objectives.
 
 ### **Machine Learning Expertise**
