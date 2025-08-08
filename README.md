@@ -14,12 +14,12 @@ Beyond work, I love strategy and competition—whether it's playing chess and po
 1. **Reinforcement Learning for Algorithmic Trading**  
    - Built a PPO-based RL agent to optimize trading strategies.  
    - Conducted extensive backtesting to validate risk and reward metrics.  
-   - Result: Achieved significant profitability over buy and hold strategy, with 15% higher cummulative returns and 40% higher risk-adjusted returns.   
+   - Result: Achieved significant profitability over buy and hold strategy, with 15% higher cumulative returns and 40% higher risk-adjusted returns.
 
-2. **Clustering-Based Portfolio Optimization**  
-   - Developed a robust portfolio using Agglomorative Clustering with stocks of similar risk return profile.   
-   - Engineered custom features and performed statistical analysis to understand each stock's impact on risk-return metrics.  
-   - Outcome: Optimized portfolio outperformed the Maginificent-7 Stocks and S&P 500 Index with a strong Sharpe Ratio of 1.75 and CR of 35.36%, when backtested on 4 years of Data.
+2. **Clustering-Based Portfolio Optimization**
+   - Developed a robust portfolio using Agglomerative Clustering with stocks of similar risk return profile.
+   - Engineered custom features and performed statistical analysis to understand each stock's impact on risk-return metrics.
+   - Outcome: Optimized portfolio outperformed the Magnificent-7 Stocks and S&P 500 Index with a strong Sharpe Ratio of 1.75 and CR of 35.36%, when backtested on 4 years of Data.
 
 3. **Depression Prediction Using Health Data**  
    - Analyzed public health datasets to predict depression risk factors.  
