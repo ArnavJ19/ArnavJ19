@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced Financial Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <main class="dashboard">
+      <header class="dashboard-header card">
+        <div>
+          <p class="eyebrow">Portfolio Intelligence</p>
+          <h1>Advanced Financial Data Dashboard</h1>
+          <p class="subtitle">Real-time style portfolio view with risk, correlation, and attribution analytics.</p>
+        </div>
+        <div class="header-controls">
+          <label>
+            Ticker
+            <select id="assetSelect"></select>
+          </label>
+          <label>
+            Timeframe
+            <select id="rangeSelect">
+              <option value="30">1M</option>
+              <option value="90">3M</option>
+              <option value="180">6M</option>
+              <option value="365" selected>1Y</option>
+            </select>
+          </label>
+        </div>
+      </header>
+
+      <section class="kpi-grid">
+        <article class="card kpi" id="navKpi"></article>
+        <article class="card kpi" id="returnKpi"></article>
+        <article class="card kpi" id="volKpi"></article>
+        <article class="card kpi" id="sharpeKpi"></article>
+      </section>
+
+      <section class="grid-2">
+        <article class="card chart-card">
+          <h2>Asset Price & EMA Trend</h2>
+          <canvas id="priceChart" aria-label="Price chart" role="img"></canvas>
+        </article>
+        <article class="card chart-card">
+          <h2>Portfolio Allocation</h2>
+          <canvas id="allocationChart" aria-label="Allocation chart" role="img"></canvas>
+        </article>
+      </section>
+
+      <section class="grid-2">
+        <article class="card chart-card">
+          <h2>Drawdown Profile</h2>
+          <canvas id="drawdownChart" aria-label="Drawdown chart" role="img"></canvas>
+        </article>
+        <article class="card chart-card">
+          <h2>Sector Contribution</h2>
+          <canvas id="sectorChart" aria-label="Sector contribution chart" role="img"></canvas>
+        </article>
+      </section>
+
+      <section class="card">
+        <h2>Rolling Performance Snapshot</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Asset</th>
+              <th>Last Price</th>
+              <th>1M Return</th>
+              <th>3M Return</th>
+              <th>Volatility</th>
+              <th>Beta</th>
+            </tr>
+          </thead>
+          <tbody id="metricsBody"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
