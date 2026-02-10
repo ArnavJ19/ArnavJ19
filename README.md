@@ -78,3 +78,16 @@ I thrive on turning raw data into actionable insights using statistical analysis
 
 #### **Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Advanced Financial Data Dashboard
+
+This repository now includes a standalone interactive financial dashboard with:
+- Portfolio KPI cards (NAV, return, volatility, Sharpe ratio)
+- Multi-chart analytics (price trend, drawdown, allocation, sector contribution)
+- Dynamic asset/timeframe controls
+- Rolling metrics table for comparative analysis
+
+### Run locally
+Open `index.html` in your browser.
